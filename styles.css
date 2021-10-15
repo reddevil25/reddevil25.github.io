@@ -1,0 +1,160 @@
+                    #topArea{
+
+background-color: yellow;
+height: 40pt;
+
+                    }
+
+
+
+
+
+
+
+
+
+       .sampleText{
+                  font-family: serif,cursive,sans-serif;
+                  font-size: 15pt;
+                  font-weight: bold;
+                  font-style: italic;
+                  line-height: 25pt;
+                  letter-spacing: 2pt;
+                  color: green;
+                  width: 400px;
+                  border-top: solid 2px black;
+                  border-bottom: solid 5px red;
+                  border-left: dotted 4px grey;
+                  border-right: groove 4px yellow;
+
+
+
+
+                  padding: 10px;
+                  padding-left: 7px;
+                  margin: 100px;
+                  margin-right: 50px;
+
+
+
+       }
+
+       .headerColor{
+                    font-family: cursive;
+                    font-size: 30pt;
+                    color: red;
+                    margin-left: 600px;
+
+
+       }
+
+
+
+                  .bgImage{
+                           background: url("kitten.jpg")  no-repeat ;
+                           background-size: 500px;
+                           background-position: top;
+                           background-position: left;
+
+
+
+
+
+                  }
+
+
+
+
+                      .him{
+                          width: 100px;
+                          color: red;
+                          margin-left: 300px;
+                          direction: ltr;
+
+
+                      }
+
+
+
+                      .wholePage{
+                        background-color: white;
+                      }
+
+
+                     a {
+                           color: yellow;
+                           font-style: italic;
+                           text-decoration: none;
+
+
+
+                     }
+
+
+
+                     a:hover {
+
+                       text-decoration: underline;
+                     }
+
+
+                     label {
+                       width: 400px;
+                       text-align: right;
+
+
+
+
+
+                     }
+
+
+
+                     .form-label{
+                             color: blue;
+
+
+                     }
+
+
+                     .form-control{
+                                  width: 400px;
+
+                     }
+
+
+                     form{
+                            margin-left: 400px;
+
+
+                     }
+
+
+
+                     #exampleInputPassword1{
+                                       padding-top: 2px;
+                                       color: red;
+
+                     }
+
+
+                        label[for=exampleInputPassword1]{
+                                        display: inline-block;
+                                        width: 200px;
+                                        color: green;
+                                        text-align: center;
+
+                        }
+
+
+
+                         label[for=exampleCheck1]{
+
+                                         text-align: left;
+
+
+                         }
+
+                         #exampleInputEmail1{
+                           color: green;
+                         }
